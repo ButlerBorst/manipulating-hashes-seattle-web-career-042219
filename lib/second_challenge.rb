@@ -6,6 +6,7 @@ def second_challenge
    grains: ["rice", "pasta"]
   }
 
+ new_groceries = groceries.flat(1
  groceries.values
 
   
